@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi there!
+- ⌨️ I'm @sebelbs
+- 🔭 I’m currently reworking the way we teach programming here at LBS Växjö
+- 🌱 I’m currently learning too little
+
 <!--
 **sebelbs/sebelbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
